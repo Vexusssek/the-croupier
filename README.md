@@ -34,8 +34,6 @@ GIF i film są krótkim montażem ujęć z uruchomionej wersji roboczej: menu g�
 | --- | --- |
 | ![Wnętrze kasyna](docs/images/casino.png) | ![Scena wprowadzająca do historii](docs/images/intro.png) |
 
-Materiały wykonano z przekazanej wersji **0.1.2**, uruchomionej na Linuksie w **Godot 4.6** z rendererem Compatibility. Do nagrania wykorzystano lokalny skrypt sterujący menu, ruchem i przełączaniem istniejących scen. Zrzuty i ujęcia pochodzą z silnika gry.
-
 ## Elementy projektu
 
 - Eksploracja scen 2D i przechodzenie między lokalizacjami.
